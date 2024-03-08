@@ -1,0 +1,10 @@
+Etudiant1L2 lala Faye 01-01-2000 pass1l2 L2 0 0 0
+Etudiant2L2 lolo Fall 01-02-2000 pass2l2 L2 0 0 0
+Etudiant3L2 lili Mba 01-03-2000 pass3l2 L2 0 0 0
+Etudiant4L2 lele Laye 01-04-2000 pass4l2 L2 0 0 0
+Etudiant5L2 mama diop 05-01-2000 pass5l2 L2 0 0 0
+Etudiant6L2 mimi sow 01-06-2000 pass6l2 L2 0 0 0
+Etudiant7L2 momo Bang 01-07-2000 pass7l2 L2 0 0 0
+Etudiant8L2 meme Faye 01-08-2000 pass8l2 L2 0 0 0
+Etudiant9L2 nene Faye 01-09-2000 pass9l2 L2 0 0 0
+Etudiant10L2 nana Faye 01-10-2000 pass10l2 L2 0 0 0

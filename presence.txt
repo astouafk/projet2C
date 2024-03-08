@@ -1,0 +1,19 @@
+etudiant1L1 NomPrenomEtudiant 21:58:51
+etudiant2L2 NomPrenomEtudiant 22:14:44
+etudiant1L1 NomPrenomEtudiant 23:16:48
+Etudiant1L1 Faye Aminata L1 05:55:14
+Etudiant2L1 Fall Mami L1 05:58:50
+Etudiant2L1 Fall Mami L1 05:59:50
+Etudiant2L2 Fall lolo L2 06:00:23
+Etudiant2L1 Fall Mami L1 06:00:44
+Etudiant3L1 Mba saly L1 06:03:46
+Etudiant3L1 Mba saly L1 06:03:53
+Etudiant2L2 Fall lolo L2 06:05:47
+Etudiant2L2 Fall lolo L2 06:05:55
+Etudiant3L2 Mba lili L2 06:12:40
+Etudiant3L2 Mba lili L2 06:12:51
+Etudiant3L2 Mba lili L2 06:15:00
+Etudiant3L2 Mba lili L2 06:15:40
+Etudiant3L2 Mba lili L2 06:15:49
+Etudiant2L2 2024-03-08 06:36:36
+Etudiant4L1 Laye Coco L1 07:59:19
