@@ -1,0 +1,6 @@
+Matricule | Prénom             | Nom                | Classe | Heure marquage présence
+etudiant3L1 | saly                 | Mba                  | L1     | 17:16:16            
+etudiant5L1 | diop                 | Chacha               | L1     | 18:49:05            
+etudiant2L1 | Fall                 | Mami                 | L1     | 19:07:48            
+etudiant1L2 | Faye                 | lala                 | L2     | 19:17:49            
+etudiant2L2 | Fall                 | lolo                 | L2     | 19:23:24            

@@ -1,59 +1,9 @@
-etudiant1L1 NomPrenomEtudiant 21:58:51
-etudiant2L2 NomPrenomEtudiant 22:14:44
-etudiant1L1 NomPrenomEtudiant 23:16:48
-Etudiant1L1 Faye Aminata L1 05:55:14
-Etudiant2L1 Fall Mami L1 05:58:50
-Etudiant2L1 Fall Mami L1 05:59:50
-Etudiant2L2 Fall lolo L2 06:00:23
-Etudiant2L1 Fall Mami L1 06:00:44
-Etudiant3L1 Mba saly L1 06:03:46
-Etudiant3L1 Mba saly L1 06:03:53
-Etudiant2L2 Fall lolo L2 06:05:47
-Etudiant2L2 Fall lolo L2 06:05:55
-Etudiant3L2 Mba lili L2 06:12:40
-Etudiant3L2 Mba lili L2 06:12:51
-Etudiant3L2 Mba lili L2 06:15:00
-Etudiant3L2 Mba lili L2 06:15:40
-Etudiant3L2 Mba lili L2 06:15:49
-Etudiant2L2 2024-03-08 06:36:36
-Etudiant4L1 Laye Coco L1 07:59:19
-Etudiant5L1 diop Chacha L1 08:44:59
-Etudiant present le 2024-03-08 09:08:34
-Etudiant present le 2024-03-08 09:08:40
-Etudiant present le 2024-03-08 09:08:48
-Etudiant present le 2024-03-08 09:08:48
-Etudiant present le 2024-03-08 09:08:48
-Etudiant present le 2024-03-08 09:08:48
-Etudiant present le 2024-03-08 09:08:48
-Etudiant present le 2024-03-08 09:08:48
-Etudiant present le 2024-03-08 09:08:48
-Etudiant present le 2024-03-08 09:08:48
-Etudiant present le 2024-03-08 09:08:48
- etudiant1L1
- etudiant1L1
-etudiant1L1 Aminata Faye L1 2024-03-08 09:51:01
-etudiant1L1 Aminata Faye L1 2024-03-08 10:19:48
-etudiant1L1 Aminata Faye L1 2024-03-08 10:19:56
-etudiant1L1 Aminata Faye L1 2024-03-08 10:30:25
 etudiant1L1 Aminata Faye L1 2024-03-08 10:30:29
-etudiant1L1,Faye,0,2024-03-08 10:35:29
-etudiant1L1,Faye,0,2024-03-08 10:35:37
-etudiant1L1,Faye,0,2024-03-08 10:38:20
-etudiant1L1,Faye,0,2024-03-08 10:38:25
-etudiant1L1,Faye,Aminata,0,2024-03-08 10:40:52
-etudiant1L1,Faye,Aminata,0,2024-03-08 10:40:55
-etudiant2L2,Fall,lolo,11,2024-03-08 10:44:12
-etudiant2L2,Fall,lolo,11,2024-03-08 10:44:15
-etudiant3L1,Mba,saly,2,2024-03-08 10:52:51
-etudiant3L1,Mba,saly,2,2024-03-08 10:52:53
-etudiant1L1,Faye,Aminata,0,2024-03-08 10:55:16
-etudiant1L1,Faye,Aminata,0,2024-03-08 10:55:19
-etudiant4L1 Laye Coco 3 2024-03-08 11:04:48
-etudiant6L1 sow mama L1 11:23:45
-etudiant3L2 Mba lili 12 2024-03-08 11:31:34
-etudiant1L1 Faye Aminata L1 11:38:16
-etudiant3L1 Mba saly L1 11:55:16
-etudiant2L1 Fall Mami L1 12:11:42
-etudiant1L1 Faye Aminata L1 12:12:46
-etudiant1L1 Faye Aminata L1 12:13:51
-etudiant1L1 Faye Aminata L1 13:08:24
+etudiant3L1 Mba saly L1 2024-03-09 17:16:16
+etudiant5L1 Chacha diop L1 2024-03-09 18:49:05
+etudiant2L1 Mami Fall L1 2024-03-09 19:07:48
+etudiant1L2 lala Faye L2 2024-03-09 19:17:49
+etudiant2L2 lolo Fall L2 2024-03-09 19:23:24
+etudiant3L2 Mba lili 12 2024-03-09 22:42:26
+etudiant6L2 sow mimi 15 2024-03-09 23:09:51
+etudiant4L2 Laye lele 13 2024-03-09 23:23:49
