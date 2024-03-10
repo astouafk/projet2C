@@ -1,0 +1,4 @@
+Matricule    | Prénom              | Nom                       | Classe     | Heure marquage présence
+etudiant2L1  | Mami                 | Fall                      | L1         | 14:17:34            
+etudiant6L2  | sow                  | mimi                      | L2         | 15:15:10            
+etudiant8L1  | Anna                 | Fam                       | L1         | 15:29:45            

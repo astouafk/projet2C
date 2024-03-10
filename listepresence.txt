@@ -3,10 +3,19 @@ Matricule  | Preom                | Nom                  | Classe     | Heure de
 etudiant1L1 | Aminata              | Faye                 | L1         | 10:30:29            
 
 Liste des présences à la date 09/03/2024
-Matricule  | Prenom               | Nom                  | Classe     | Heure de marquage presence
+Matricule  | Preom                | Nom                  | Classe     | Heure de marquage presence
 etudiant3L1 | Mba                  | saly                 | L1         | 17:16:16            
 etudiant5L1 | Chacha               | diop                 | L1         | 18:49:05            
 etudiant2L1 | Mami                 | Fall                 | L1         | 19:07:48            
 etudiant1L2 | lala                 | Faye                 | L2         | 19:17:49            
 etudiant2L2 | lolo                 | Fall                 | L2         | 19:23:24            
+etudiant3L2 | Mba                  | lili                 | L2         | 22:42:26            
+etudiant6L2 | sow                  | mimi                 | L2         | 23:09:51            
+etudiant4L2 | Laye                 | lele                 | L2         | 23:23:49            
+
+Liste des présences à la date 10/03/2024
+Matricule  | Prenom               | Nom                  | Classe     | Heure de marquage presence
+etudiant2L1 | Fall                 | Mami                 | L1         | 14:17:34            
+etudiant6L2 | mimi                 | sow                  | L2         | 15:15:10            
+etudiant8L1 | Fam                  | Anna                 | L1         | 15:29:45            
 
